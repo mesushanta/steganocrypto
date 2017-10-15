@@ -5,4 +5,4 @@ You can simply download and upload it to the root of the php server. It works pe
 You might need to enable some php extension.
 
 # Requirements
-This doen not wotks with php 7+. The mcrypt does not with php 7.
+This doen not works with php 7+. The mcrypt does not work any more in php 7.
